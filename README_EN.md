@@ -159,9 +159,8 @@ I will update this weekly:
 
 # 📬 Contact
 
-**LinkedIn:** linkedin.com/in/fernando-zonatto  
-**Email:** zonattofernando@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Zonatto-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fernando-zonatto) 
+[![Email](https://img.shields.io/badge/Email-zonattofernando@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zonattofernando@gmail.com)
 ---
 
 ✨ Thank you for following along. This is my official return to development!
