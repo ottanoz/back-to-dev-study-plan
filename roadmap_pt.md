@@ -1,6 +1,6 @@
 # ROADMAP 90 DIAS – A Guia do Desenvolvedor
 
-Guia completo, detalhado e estruturado para sua jornada de 90 dias rumo ao retorno ao desenvolvimento profissional e à preparação para vagas internacionais.
+Guia completo, detalhado e estruturado para sua jornada de 90 dias rumo ao retorno ao desenvolvimento profissional.
 
 Este documento contém:
 
@@ -20,9 +20,9 @@ Este roadmap foi criado para permitir que você:
 
 1. Retorne ao desenvolvimento com segurança e consistência.  
 2. Recupere fluência em tecnologias modernas (React, Next, TS, Node, Nest).  
-3. Construa dois projetos robustos que impressionem recrutadores internacionais.  
+3. Construa dois projetos robustos.  
 4. Monte currículo, GitHub, portfólio e perfil profissional fortes.  
-5. Prepare-se para entrevistas técnicas exigentes (Frontend e Full Stack).  
+5. Prepare-se para desafios técnicos exigentes (Frontend e Full Stack).  
 6. Organize seus estudos para caber no seu tempo disponível: **3 horas por dia**.
 
 A estratégia é simples:
@@ -31,7 +31,7 @@ A estratégia é simples:
 - **20% estudo** (materiais curtos, diretos e oficiais)  
 - Sem cursos longos.  
 - Sem perda de tempo.  
-- Apenas o que te deixa pronto **de verdade** para o mercado internacional.
+- Apenas o que te deixa pronto **de verdade** para os desafios.
 
 ---
 
