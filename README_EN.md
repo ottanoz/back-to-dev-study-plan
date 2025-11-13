@@ -152,7 +152,7 @@ I will update this weekly:
 - To stay accountable  
 - To track my progress  
 - To organize my learning  
-- To show consistency (important for international roles)  
+- To show consistency 
 - To help others who want to return to development  
 
 ---

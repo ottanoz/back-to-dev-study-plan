@@ -151,7 +151,6 @@ Vou atualizar este quadro toda semana:
 - Para acompanhar minha evolução  
 - Para manter consistência e disciplina  
 - Para registrar meu processo de aprendizado  
-- Para mostrar organização e maturidade profissional  
 - Para inspirar outros desenvolvedores que querem voltar ao código  
 
 ---
