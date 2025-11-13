@@ -1,0 +1,6 @@
+# Enforce CRLF endings for all text files
+* text eol=crlf
+
+# (Optional) If you want binary exceptions, list them below, e.g.
+# *.png binary
+# *.jpg binary
