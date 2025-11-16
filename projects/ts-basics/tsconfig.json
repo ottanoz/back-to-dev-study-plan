@@ -1,0 +1,8 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Project",
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "strictNullChecks": true
+    }
+}
