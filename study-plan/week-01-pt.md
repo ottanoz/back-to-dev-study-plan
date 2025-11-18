@@ -58,3 +58,51 @@ function processInput(input: string | number | string[] | null) {
         return "No value";
     }
 }
+
+# 📅 Week 01 — Day 03
+**Status:** ✔ Concluído  
+**Duração:** ~2h  
+**Foco:** TypeScript — Generic Functions e Overloads (nível intermediário)
+
+#### 🔹 **More on Functions** (capítulo completo)
+https://www.typescriptlang.org/docs/handbook/2/functions.html  
+
+Sessões estudadas:
+
+- function types  
+- optional/default parameters  
+- unknown in function arguments  
+- union return types  
+- narrowing dentro de funções  
+- funções como valores (callback patterns)  
+- **introdução a Generic Functions** (até o fim da seção)
+- função como tipo genérico  
+- constraints com `extends`
+
+---
+
+## 🧪 Prática realizada
+
+### ✔ Revisão prática de narrowings
+Implementei e revisei:
+
+- narrowing com typeof  
+- narrowing com array  
+- narrowing com unions complexos  
+- verificação segura com `"key" in obj"`  
+- fluxo condicional seguro com TS
+
+### ✔ Exercício final do dia — `processInput()`
+
+```ts
+function processInput(input: string | number | string[] | null) {
+    if (input && typeof input === "string") {
+        return input.toUpperCase();
+    } else if (typeof input === "number") {
+        return input * 2;
+    } else if (Array.isArray(input)) {
+        return `Array with ${input.length} items`;
+    } else {
+        return "No value";
+    }
+}
