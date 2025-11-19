@@ -9,7 +9,7 @@ Checklist diária e metas.
 - Leitura do Handbook de Typescript até aqui: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
 - Prática de exemplos da documentação
 
-# 📅 Week 01 — Day 02
+# 17/11/2025
 **Status:** ✔ Concluído  
 **Duração:** ~2h  
 **Foco:** TypeScript — Narrowing (nível intermediário)
@@ -58,8 +58,9 @@ function processInput(input: string | number | string[] | null) {
         return "No value";
     }
 }
+```
 
-# 📅 Week 01 — Day 03
+# 18/11/2025
 **Status:** ✔ Concluído  
 **Duração:** ~2h  
 **Foco:** TypeScript — Generic Functions e Overloads (nível intermediário)
@@ -106,3 +107,7 @@ function processInput(input: string | number | string[] | null) {
         return "No value";
     }
 }
+```
+
+# 18/11/2025
+- Início com React: li parte da documentação Describing the UI e fiz os exercícios de Your First Component e Importing and Exporting Components
